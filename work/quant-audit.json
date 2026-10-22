@@ -1,0 +1,23 @@
+{
+  "sets": 20,
+  "questions": 2000,
+  "templates": 50,
+  "arithmetic_per_set": 60,
+  "reasoning_per_set": 40,
+  "skills": 62,
+  "answer_positions": {
+    "2": 502,
+    "3": 491,
+    "0": 529,
+    "1": 478
+  },
+  "independently_checked": 2000,
+  "syllogism_models_per_variant": 256,
+  "family_relation_scenarios_checked": 8,
+  "geometry_check": "Heron and Pythagorean identities",
+  "uniqueStems": 2000,
+  "templateFamilies": 50,
+  "distinctProblemForms": 62,
+  "reuseDisclosure": "The 2000 unique full items include 40 variants in each of 50 transparent template families. They are not 2000 different concepts. Each set includes 62 problem forms because selected families include inverse or multi-stage versions.",
+  "balanceDisclosure": "60 arithmetic and 40 reasoning per set is an editorial practice allocation, not an asserted official topic quota."
+}

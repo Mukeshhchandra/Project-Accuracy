@@ -1,0 +1,38 @@
+{
+  "count": 650,
+  "topics": {
+    "General Science": 400,
+    "Geography": 250
+  },
+  "uniqueConceptKeys": 650,
+  "uniqueStems": 650,
+  "duplicateIds": 0,
+  "options": 2600,
+  "explainedOptions": 2600,
+  "answerPositions": {
+    "3": 161,
+    "2": 161,
+    "0": 176,
+    "1": 152
+  },
+  "sourceCounts": {
+    "NCERT Science textbooks — subject reference; original practice question": 398,
+    "NCERT Geography textbooks — subject reference; original practice question": 194,
+    "NCERT Indian Physical Environment — Soils, hosted by Kerala KITE": 1,
+    "NASA Glenn — States of Matter; gas and plasma distinction": 1,
+    "NCBI Bookshelf — Immunobiology glossary; antigenic determinants and epitopes": 1,
+    "US Geological Survey — This Dynamic Earth, plate motions": 4,
+    "NOAA — ocean currents education reference": 8,
+    "NOAA — tides education reference": 4,
+    "India Meteorological Department — weather and climate educational references": 12,
+    "NCERT Contemporary India I — Physical Features of India": 24,
+    "Tea Board India — tea plant FAQ": 1,
+    "Plant Variety Authority — Coffee DUS guidelines": 1,
+    "Ministry of Coal — Coal Directory of India 2024–25, Table 2.3": 1
+  },
+  "inheritedDistinctQuestions": 128,
+  "newlyAuthoredDistinctQuestions": 522,
+  "generation": "No number-substitution or rephrasing loops. Each row supplies a distinct assessed concept or fact.",
+  "sourceScope": "Reference URLs are authoritative subject references. No textbook page numbers are asserted; most facts were not individually retrieved from a page.",
+  "reviewLimit": "Structural and exact-duplicate checks pass. Concept keys and high-overlap wording were reviewed; this is not an independent expert review of all 650 factual explanations."
+}

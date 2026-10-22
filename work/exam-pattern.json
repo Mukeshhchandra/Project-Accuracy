@@ -1,0 +1,33 @@
+{
+  "verifiedOn": "2026-10-18",
+  "notification": {"number": "225/Rect./Rect-1/2026", "date": "2026-07-29", "url": "https://www.tgprb.in/SI_PC_2026/SI%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf", "pages": [19,20,23,24,25,42,43,44]},
+  "uploadedExtractPrintedPages": [40,42,43,44],
+  "recommendedMode": "SI Preliminary Mocks",
+  "prelims": {
+    "questions": 200, "durationMinutes": 180, "maxMarks": 200,
+    "sections": [{"name":"Arithmetic and Reasoning","questions":100},{"name":"General Studies","questions":100}],
+    "scoring": {"correct":1,"wrong":-0.2,"blank":0},
+    "qualifyingPercent": {"OC_EWS":30,"BC":25,"SC_ST_exServicemen":20},
+    "languages": ["English–Telugu","English–Urdu"],
+    "translationDisputeAuthority": "English",
+    "topicQuotasOfficiallySpecified": false,
+    "tentativeDate": "2026-11-29",
+    "dateSource": "https://tgprb.in/"
+  },
+  "mainsCivil": {
+    "papers": [
+      {"name":"English","qualifyingOnly":true,"durationMinutes":180,"maxMarks":100,"objective":{"questions":50,"marks":25,"minutes":45,"wrongPenaltyFraction":0.25},"descriptive":{"marks":75,"minutes":135}},
+      {"name":"Telugu or Urdu","qualifyingOnly":true,"durationMinutes":180,"maxMarks":100,"objective":{"questions":50,"marks":25,"minutes":45,"wrongPenaltyFraction":0.25},"descriptive":{"marks":75,"minutes":135}},
+      {"name":"Arithmetic and Reasoning","qualifyingOnly":false,"durationMinutes":180,"questions":200,"maxMarks":200,"wrongPenalty":null},
+      {"name":"General Studies","qualifyingOnly":false,"durationMinutes":180,"questions":200,"maxMarks":200,"wrongPenalty":null}
+    ],
+    "qualifyingPercentPerPaper":{"OC_EWS":40,"BC":35,"SC_ST_exServicemen":30},
+    "meritPapers":[3,4],
+    "penaltyCaution":"Papers III/IV penalty not specified in reviewed text; do not assume prelim penalty."
+  },
+  "supplement":{"date":"2026-08-15","url":"https://doc.tgprb.in/Supplementary+Notification+2026++dated+15-08-2026.pdf","effect":"Age relaxation only"},
+  "accuracyTarget":0.85,
+  "accuracyFormula":"correct / attempted",
+  "scoreFormula":"correct - 0.20 * wrong",
+  "scoreGuarantee":false
+}

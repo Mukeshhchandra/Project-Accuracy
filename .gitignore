@@ -1,0 +1,28 @@
+# Private source documents, extractions and personal state
+*.pdf
+*.pmd
+private-resources/
+Resources/
+ocr/
+extracted/
+raw-text/
+accuracy-progress-*.json
+qa-*/
+*backup*.json
+# Credentials and local tooling
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+# Generated review package can be rebuilt
+outputs/Accuracy-local-review.zip
+work/review-package-manifest.json

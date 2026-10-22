@@ -1,0 +1,156 @@
+[
+  {
+    "left": "SG-0214",
+    "right": "SG-0213",
+    "sameAnswer": false,
+    "jaccard": 1.0,
+    "textRatio": 0.902,
+    "question1": "What is the transition from liquid to solid called?",
+    "question2": "What is the transition from solid to liquid called?",
+    "answer1": "Freezing",
+    "answer2": "Melting"
+  },
+  {
+    "left": "SG-0262",
+    "right": "SG-0263",
+    "sameAnswer": false,
+    "jaccard": 0.875,
+    "textRatio": 0.955,
+    "question1": "Which metallic element is liquid near ordinary room temperature?",
+    "question2": "Which non-metallic element is a liquid near ordinary room temperature?",
+    "answer1": "Mercury",
+    "answer2": "Bromine"
+  },
+  {
+    "left": "SG-0537",
+    "right": "SG-0538",
+    "sameAnswer": false,
+    "jaccard": 0.857,
+    "textRatio": 0.707,
+    "question1": "Which ENSO phase involves unusually warm sea-surface temperatures in the central or eastern equatorial Pacific?",
+    "question2": "Which ENSO phase involves unusually cool central or eastern equatorial Pacific sea-surface temperatures?",
+    "answer1": "El Nino",
+    "answer2": "La Nina"
+  },
+  {
+    "left": "PEC-0407",
+    "right": "PEC-0408",
+    "sameAnswer": false,
+    "jaccard": 0.846,
+    "textRatio": 0.967,
+    "question1": "Quantity demanded changes by a larger percentage than price, in absolute terms. How is demand classified?",
+    "question2": "Quantity demanded changes by a smaller percentage than price, in absolute terms. How is demand classified?",
+    "answer1": "Price-elastic demand",
+    "answer2": "Price-inelastic demand"
+  },
+  {
+    "left": "PEC-0300",
+    "right": "PEC-0301",
+    "sameAnswer": false,
+    "jaccard": 0.833,
+    "textRatio": 0.806,
+    "question1": "Which judicial experience satisfies one Article 124 qualification route for appointment to the Supreme Court?",
+    "question2": "Which advocacy experience satisfies one Article 124 qualification route for Supreme Court appointment?",
+    "answer1": "Five years as a High Court judge",
+    "answer2": "Ten years as a High Court advocate"
+  },
+  {
+    "left": "PEC-0462",
+    "right": "PEC-0461",
+    "sameAnswer": false,
+    "jaccard": 0.8,
+    "textRatio": 0.93,
+    "question1": "Planned spending is below output at the current income level. Which disequilibrium is present?",
+    "question2": "Planned spending exceeds output at the current income level. Which disequilibrium is present?",
+    "answer1": "Deficient aggregate demand",
+    "answer2": "Excess aggregate demand"
+  },
+  {
+    "left": "SG-0447",
+    "right": "SG-0448",
+    "sameAnswer": false,
+    "jaccard": 0.8,
+    "textRatio": 0.947,
+    "question1": "A diploid organism carries two identical alleles at a locus. How is it described at that locus?",
+    "question2": "A diploid organism carries two different alleles at a locus. How is it described at that locus?",
+    "answer1": "Homozygous",
+    "answer2": "Heterozygous"
+  },
+  {
+    "left": "PEC-0240",
+    "right": "PEC-0225",
+    "sameAnswer": false,
+    "jaccard": 0.778,
+    "textRatio": 0.883,
+    "question1": "For which House must a vice-presidential candidate be qualified for election?",
+    "question2": "For which parliamentary House must a presidential candidate be qualified for election?",
+    "answer1": "Qualification for Rajya Sabha membership",
+    "answer2": "Qualification for election to Lok Sabha"
+  },
+  {
+    "left": "SG-0033",
+    "right": "SG-0034",
+    "sameAnswer": false,
+    "jaccard": 0.778,
+    "textRatio": 0.944,
+    "question1": "In electron-transfer terms, what happens when a species loses electrons?",
+    "question2": "In electron-transfer terms, what happens when a species gains electrons?",
+    "answer1": "Oxidation",
+    "answer2": "Reduction"
+  },
+  {
+    "left": "PEC-0328",
+    "right": "PEC-0329",
+    "sameAnswer": false,
+    "jaccard": 0.778,
+    "textRatio": 0.923,
+    "question1": "What minimum age does Article 173 prescribe for membership of a Legislative Assembly?",
+    "question2": "What minimum age does Article 173 prescribe for membership of a Legislative Council?",
+    "answer1": "Twenty-five-year minimum MLA age",
+    "answer2": "Thirty-year minimum MLC age"
+  },
+  {
+    "left": "SG-0231",
+    "right": "SG-0230",
+    "sameAnswer": false,
+    "jaccard": 0.778,
+    "textRatio": 0.974,
+    "question1": "At 25°C, how is an aqueous solution with pH 11 classified?",
+    "question2": "At 25°C, how is an aqueous solution with pH 3 classified?",
+    "answer1": "Basic above pH 7",
+    "answer2": "Acidic below pH 7"
+  },
+  {
+    "left": "SG-0251",
+    "right": "SG-0250",
+    "sameAnswer": false,
+    "jaccard": 0.75,
+    "textRatio": 0.944,
+    "question1": "Which open-chain hydrocarbon class with one carbon–carbon triple bond has formula CₙH₂ₙ₋₂?",
+    "question2": "Which open-chain hydrocarbon class with one carbon–carbon double bond has formula CₙH₂ₙ?",
+    "answer1": "Alkyne",
+    "answer2": "Alkene"
+  },
+  {
+    "left": "PEC-0458",
+    "right": "PEC-0457",
+    "sameAnswer": false,
+    "jaccard": 0.75,
+    "textRatio": 0.94,
+    "question1": "Which ratio measures the increase in saving divided by the increase in disposable income?",
+    "question2": "Which ratio measures the increase in consumption divided by the increase in disposable income?",
+    "answer1": "Marginal propensity to save",
+    "answer2": "Marginal propensity to consume"
+  },
+  {
+    "left": "SG-0273",
+    "right": "SG-0274",
+    "sameAnswer": false,
+    "jaccard": 0.75,
+    "textRatio": 0.897,
+    "question1": "A reaction transfers heat to its surroundings. How is it classified thermally?",
+    "question2": "A reaction absorbs heat from its surroundings. How is it classified thermally?",
+    "answer1": "Exothermic reaction",
+    "answer2": "Endothermic reaction"
+  }
+]
